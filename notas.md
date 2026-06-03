@@ -1,1 +1,1 @@
-"Este es mi nuevo archivo para porbar el manejo de creacion y modificacion de repositorios ediante el uso de GIT"
+"Este es mi nuevo archivo para probar el manejo de creacion y modificacion de repositorios mediante el uso de GIT"
